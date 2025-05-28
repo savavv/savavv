@@ -19,6 +19,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![aiogram3](https://img.shields.io/badge/-aiogram3-013243?style=flat-square&logo=aiogram3&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-013243?style=flat-square&logo=golang&logoColor=white)
 
 ---
 
